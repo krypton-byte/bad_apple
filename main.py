@@ -1,8 +1,6 @@
-from PIL import Image, ImageOps
-from os import get_terminal_size, system
-import numpy as np
+from PIL import Image
+from os import get_terminal_size
 import cv2
-import sys
 def patternResCustom(x, y, res):
     """
     AutoScale
