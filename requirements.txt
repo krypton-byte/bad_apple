@@ -1,2 +1,2 @@
 opencv-contrib-python
-pillow
+colorama
